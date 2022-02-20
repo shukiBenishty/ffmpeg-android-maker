@@ -1,4 +1,4 @@
-name: Compilability check
+name: Compilability check test
 on: push
 jobs:
   build:
